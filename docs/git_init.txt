@@ -1,0 +1,21 @@
+#This doc illustrates the procedures of adding an existing project to GitHub using the command line
+
+1. Create a new repository on GitHub. To avoid errors, do not initialize the new repository with README, license, or gitignore files. You can add these files after your project has been pushed to GitHub
+
+2. CD to your local directory, which is intended to be initialized as a Git repository
+
+3. $git init
+
+4. $git add .
+
+5. $git commit -m "First commit"
+
+6. $git remote add origin remote repository URL (For example, $git remote add origin https://github.com/imarchuang/spring-tutorial.git)
+
+7. # Verify new remote
+   $git remote -v
+
+8. #If the remote master has not been initialized, skip this step
+   $git pull origin master
+
+9. $git push origin master

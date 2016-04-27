@@ -1,0 +1,6 @@
+Problem: The superclass "javax.servlet.http.HttpServlet" was not found on the Java Build Path
+
+Solution: Add a runtime first and select project properties then check server name from 'Runtimes' 
+tab as shown in image
+
+RightClickOnProject >> Properties >> Project Facets >> Runtimes (on the top left)
