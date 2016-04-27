@@ -1,3 +1,3 @@
-# spring-tutorial
+#hbm-trials
 
-For the sake of miscelleneous spring offline encounters
+For the sake of reading book Java Persistence with Hibernate
