@@ -10,7 +10,8 @@
 
 	<modules>
 		<module>hbm-helloworld</module>
-  </modules>
+		<module>hbm-helloworld-annotation</module>
+	</modules>
 
 	<dependencies>
 		<dependency>
