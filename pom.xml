@@ -11,6 +11,7 @@
 	<modules>
 		<module>hbm-helloworld</module>
 		<module>hbm-helloworld-annotation</module>
+		<module>hbm-helloworld-jpa</module>
 	</modules>
 
 	<dependencies>
